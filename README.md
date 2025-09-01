@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">B.Tech CSE Student | Specializing in Data Science</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/aryanraj71/aryanraj71/blob/main/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj7100&label=Profile%20views&color=0e75b6&style=flat" alt="aryanraj71" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj71&label=Profile%20views&color=0e75b6&style=flat" alt="aryanraj71" /> </p>
 
 - 🌱 I’m currently learning *Python, SQL, and data visualization tools like Power Bi to strengthen my data analysis skills.*
 
