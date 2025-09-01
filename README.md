@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/aryanraj71/aryanraj71/blob/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanraj71&label=Profile%20views&color=0e75b6&style=flat" alt="aryanraj71" /> </p>
 
-- 🌱 Aspiring **Data Analyst**, currently strengthening my skills in Python, SQL, and data visualization using tools like Power BI.
+- 🌱 Aspiring **Data Analyst**, currently strengthening my skills in data visualization using tools like Power BI.
 
 - 📫 Let’s connect *71aryan.raj@gmail.com*
 
