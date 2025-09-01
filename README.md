@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Akshat-mittal1&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aryanraj71&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
 <!-- 🧑‍💼 About + Image Inline -->
