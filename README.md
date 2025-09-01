@@ -1,4 +1,4 @@
-![logo](https://github.com/aryanraj71/aryanraj71/blob/main/assets/mario.gif)
+![logo](https://github.com/aryanraj71/aryanraj71/blob/main/mario.gif)
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
 <h3 align="center">B.Tech CSE Student | Specializing in Data Science</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/aryanraj71/aryanraj71/blob/main/coding.gif">
