@@ -67,7 +67,7 @@
 
 </div>
 
-<h2>⍩⃝Contribution:</h2>
+<h1 align="left">Contribution:</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanraj71/aryanraj71/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanraj71/aryanraj71/output/pacman-contribution-graph.svg">
