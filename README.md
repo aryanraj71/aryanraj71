@@ -8,7 +8,6 @@
 • 🌟 Open to collaboration, innovation, and exciting opportunities in tech.
 </p>
 
----
 
 <h1 align="left">🌐Socials:</h1>
 
