@@ -77,4 +77,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aryanraj71/aryanraj71/output/pacman-contribution-graph.svg">
 </picture>
 
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanraj71/aryanraj71/output/snake.svg" />
+</p>
 ###
