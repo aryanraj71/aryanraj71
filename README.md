@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanraj71&show_icons=true&theme=dracula" height="150"/>
+<img src="assets/stats.svg" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanraj71&theme=dracula" height="150"/>
+<img src="assets/streak.svg" height="150"/>
 
 </div>
 
