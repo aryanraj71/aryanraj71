@@ -1,0 +1,27 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=aryanraj71&show_icons=true&theme=dracula"
+          curl -o assets/streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=aryanraj71&theme=dracula"
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "Aryan Raj"
+          git config --global user.email "you@example.com"
+          git add assets/
+          git commit -m "Update stats" || echo "No changes"
+          git push
